@@ -3,7 +3,7 @@
 <!--
 **kkfreedom/kkfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-![简书](https://img.shields.io/badge/简书-kk爱自由-orange)
+[![简书](https://img.shields.io/badge/简书-kk爱自由-orange)](https://www.jianshu.com/u/6e12b2b16b80)
 #### Following is a brief introduce. Kindly wish everyone happy:
 
 
