@@ -1,4 +1,4 @@
-### Hi there, I'm Leo.Feng,  👋
+### Hi there, I'm Leo.Feng👋
 
 <!--
 **kkfreedom/kkfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
