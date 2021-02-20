@@ -11,6 +11,6 @@
 - 🌱    Interesting in TypeScript/Go/Python/Gradle..
 - 📫    Reachable on fcpinsg@gmail.com or fcpsg@126.com
 - 😄    Love game at NS/PS especially NBA2K/PES/Zelda...
-- ✨   Always love Music & Guitar
+- ✨    Always love Music & Guitar
 - 👨‍👩‍👧    Love my daughter named keke
 
