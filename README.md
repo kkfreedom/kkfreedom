@@ -7,8 +7,8 @@
 #### Kindly wish everyone happy.
 
 
-- 🔭    Coding on Java/Shell
-- 🌱    Interesting in TypeScript/Go/Python/Gradle..
+- 🔭    Rookie of coding
+- 🌱    Interested in Go/TypeScript..
 - 📫    Reachable on fcpinsg@gmail.com or fcpsg@126.com
 - 😄    Love game at NS/PS especially NBA2K/PES/Zelda...
 - ✨    Always love Music & Guitar
