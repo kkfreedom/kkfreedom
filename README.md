@@ -1,4 +1,4 @@
-### Hi there, I'm Leo.Feng👋
+### Hi there, I'm Leo Feng👋
 
 <!--
 **kkfreedom/kkfreedom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@
 
 
 - 🔭    Rookie of coding
-- 🌱    Interested in Go/TypeScript..
+- 🌱    Interested in any productivity tools..
 - 📫    Reachable on fcpinsg@gmail.com or fcpsg@126.com
 - 😄    Love game at NS/PS especially NBA2K/PES/Zelda...
 - ✨    Always love Music & Guitar
